@@ -1,0 +1,15 @@
+/* swagger ui customization */
+.swagger-ui .topbar {
+    background-color: white;
+}
+
+.swagger-ui .topbar img {
+	display: block;
+	background: url('./assets/images/logo.svg') no-repeat;
+	height: 38px;
+	padding-left: 180px; /* Equal to width of new image */
+}
+
+.swagger-ui .topbar span {
+	display: none;
+}
